@@ -1,0 +1,5 @@
+::Sovereign::Fabric::Identity::v1
+URI "silo://20POSI/20POSI-Base"
+Label "20POSI Base"
+Silo "20POSI"
+Workspace "20POSI-Base"
